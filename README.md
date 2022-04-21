@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
+<h1 align="center">SOHAIL ABBAS</h1>
 <h3 align="center">A passionate Backend Developer from Pakistan currently based in Italy</h3>
 
 
