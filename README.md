@@ -1,5 +1,5 @@
 <h1 align="center">SOHAIL ABBAS</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan currently based in Italy</h3>
+<h3 align="center">A passionate full stack web Developer from Pakistan currently based in Italy</h3>
 
 
 - 🔭 I’m currently working on **rest api**
