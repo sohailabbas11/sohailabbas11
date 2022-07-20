@@ -1,12 +1,8 @@
 <h1 align="center">SOHAIL ABBAS</h1>
-<h3 align="center">A passionate full stack web Developer from Pakistan currently based in Italy</h3>
+<h3 align="center">A passionate Backend Developer from Pakistan currently based in Italy</h3>
 
 
-- 🔭 I’m currently working on **rest api**
-
-- 🌱 I’m currently learning **mern stack**
-
-- 🤝 I’m looking for help with **rest api**
+- 🔭 I’m currently working on **Node js backend developement**
 
 - 💬 Ask me about **anything**
 
