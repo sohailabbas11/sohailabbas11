@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
-<h3 align="center">A passionate Backend Developer from Pakistan currently based in Italy</h3>
+<h3 align="center">A passionate Full-Stack Developer from Pakistan currently based in Italy</h3>
 
 - 🔭 I’m currently working on **Backend Developement**
 
