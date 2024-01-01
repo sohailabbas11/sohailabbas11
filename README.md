@@ -2,8 +2,7 @@
 <h3 align="center">A passionate full stack developer, Cofounder & CTO @ Remote Line</h3>
 
 
-<p align="center>⚡ Fun fact **I speak 3 languages (English, Italian, Urdu)**</p>
-<p align="center> 📫 How to reach me **sohailabbas669@gmail.com**</p>
+<p align="center>⚡ Fun fact **I speak 3 languages (English, Italian, Urdu)** 📫 How to reach me **sohailabbas669@gmail.com**</p>
 
 
 <h3 align="center">Connect with me:</h3>
