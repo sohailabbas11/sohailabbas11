@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
-<h3 align="center">A passionate full stack developer, Cofounder & CTO @ Remote Line</h3>
+<h3 align="center">A passionate full stack developer, Co-Founder & CTO @ Remote Line</h3>
 
 
 <h3 align="center">Connect with me:</h3>
