@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohail Abbas</h1>
-<h3 align="center">A passionate full stack developer, Co-Founder & CTO @ Remote Line</h3>
+<h3 align="center">Experienced Node.js Backend Developer with 2 years of expertise in building scalable, high-performance web applications and APIs. Skilled in JavaScript/TypeScript, Node.Js, Express.Js, and database management (MongoDB, PostgreSQL). Proficient in developing MicroServices, implementing authentication mechanisms (JWT/OAuth), and deploying applications on AWS with Docker and Kubernetes. Passionate about clean code, agile workflows, and solving complex technical challenges. Dedicated to continuous learning and staying updated with the latest technologies.</h3>
 
 
 <h3 align="center">Connect with me:</h3>
